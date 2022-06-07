@@ -8,9 +8,15 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 Also, I am looking to find the answer for following question:
 
 Who is likely to get stroke male, female?
+
 Does age play a role in getting stroke?
+
 Do children get stroke?
+
 What is average glucose level for patients with stroke?
+
 Does smoking has influence in getting stroke?
+
 Does work_type predict stroke?
+
 Does residence type predict stroke?

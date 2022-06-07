@@ -1,4 +1,4 @@
-# healthcaredataset
+# healthcare
 Stroke prediction dataset
 
 As per the WHO (World Health Organization) stroke is the 2nd leading cause of dead globally.
